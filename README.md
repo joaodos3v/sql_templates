@@ -17,6 +17,6 @@ This repository will store sql templates so that repetitive work is avoided and 
 
 		- Create Your database
 		
-		- Create the following tables: **paises**, **estados** and **cidades**
+		- Create the following tables: paises, estados and cidades
 		
-		- Perform, in this order, the sql's: **paises.sql**, **estados.sql** and **cidades.sql**
+		- Perform, in this order, the sql's: paises.sql, estados.sql and cidades.sql
