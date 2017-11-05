@@ -4,7 +4,7 @@ This repository will store sql templates so that repetitive work is avoided and 
 ### Ready Tables
 1. **_Relation One_**
 
-	_Name_		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _Language_
+	**_Name_**		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **_Language_**
 
 	Cities (Brazil)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQl, PgSQL
 	
@@ -15,8 +15,8 @@ This repository will store sql templates so that repetitive work is avoided and 
 ### How to Use
 1. **_Relation One_**
 
-		i. Create Your database
+		- Create Your database
 		
-		ii. Create the following tables: **paises**, **estados** and **cidades**
+		- Create the following tables: **paises**, **estados** and **cidades**
 		
-		iii. Perform, in this order, the sql's: **paises.sql**, **estados.sql** and **cidades.sql**
+		- Perform, in this order, the sql's: **paises.sql**, **estados.sql** and **cidades.sql**
