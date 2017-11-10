@@ -3,14 +3,14 @@ INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (2, 'Alagoas', 'AL', 
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (3, 'Amapá', 'AP', '16', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (4, 'Amazonas', 'AM', '13', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (5, 'Bahia', 'BA', '29', 1);
-INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (6, 'Ceará', 'Ce', '23', 1);
+INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (6, 'Ceará', 'CE', '23', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (7, 'Distrito Federal', 'DF', '53', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (8, 'Espírito Santo', 'ES', '32', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (9, 'Goiás', 'GO', '52', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (10, 'Maranhão', 'MA', '21', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (11, 'Mato Grosso do Sul', 'MS', '50', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (12, 'Mato Grosso', 'MT', '51', 1);
-INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (13, 'Minas Gerais', 'MS', '31', 1);
+INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (13, 'Minas Gerais', 'MG', '31', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (14, 'Paraná', 'PR', '41', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (15, 'Paraíba', 'PB', '25', 1);
 INSERT INTO estados (id, nome, uf, codigo, pais_id) VALUES (16, 'Pará', 'PA', '15', 1);
